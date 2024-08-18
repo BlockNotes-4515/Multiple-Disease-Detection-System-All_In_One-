@@ -1,0 +1,5 @@
+numpy==1.21.4
+streamlit>=1.10.0  # Updated Streamlit to a more recent version
+streamlit-option-menu==0.3.2
+scikit-learn==1.0.1
+protobuf>=3.20.1   # Allowing flexibility with protobuf version
