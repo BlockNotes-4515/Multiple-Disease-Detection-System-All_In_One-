@@ -52,7 +52,8 @@ By following these steps, you can seamlessly deploy your Streamlit app from GitH
 ==============================================================================================================================================================
 
 Sure, let’s break down each of these disease detection systems:
-
+<hr>
+<img src="Images-Output/up4.PNG">
 ### 1. Diabetes Detection System
 
 **Objective:**
