@@ -120,3 +120,14 @@ To detect Parkinson's disease in patients using symptoms and medical data, often
 4. **Deployment:** Use the model in diagnostic tools to assist healthcare professionals in identifying and managing Parkinson’s disease.
 
 These systems utilize machine learning and data analytics to improve the early detection and management of diseases, aiding healthcare professionals in providing better patient care.
+<hr>
+<h1>For, More Inquiries/ Data Available Here and Other IMP. Links</h1>
+<hr>
+<h2>Baki Munna Bhai Tyaar Hn , Mujhko Tumsee _____</h2>
+<ul>
+   <li>Linkdin: https://www.linkedin.com/in/dhruv-dhayal-9568b7262/</li>
+   <li>Github: https://github.com/BlockNotes-4515</li>
+   <li>Instagram: https://www.instagram.com/dhayaldhruv271/?hl=en</li>
+   <li>Google-Drive: https://drive.google.com/drive/folders/1KztFNuC4nkbccIRtoPkNsMycy3Jn9Wmy</li>
+</ul>
+<hr>
