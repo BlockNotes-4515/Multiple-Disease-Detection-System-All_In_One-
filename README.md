@@ -54,6 +54,8 @@ By following these steps, you can seamlessly deploy your Streamlit app from GitH
 Sure, let’s break down each of these disease detection systems:
 <hr>
 <img src="Images-Output/up4.PNG">
+<hr>
+
 ### 1. Diabetes Detection System
 
 **Objective:**
@@ -71,6 +73,9 @@ To diagnose or predict the likelihood of diabetes in a patient based on various 
 2. **Training:** Split data into training and test sets. Train the model on the training set.
 3. **Testing:** Evaluate the model on the test set.
 4. **Deployment:** Integrate the model into a healthcare system where it can assist in diagnosing diabetes.
+
+<img src="Images-Output/up1.PNG">
+<hr>
 
 ### 2. Heart Disease Detection System
 
@@ -90,6 +95,9 @@ To identify patients at risk of heart disease based on their clinical and lifest
 3. **Model Evaluation:** Test the model on unseen data to validate its performance.
 4. **Implementation:** Implement the model in a clinical setting to aid in early detection and prevention.
 
+<img src="Images-Output/up2.PNG">
+<hr>
+
 ### 3. Parkinson's Disease Detection System
 
 **Objective:**
@@ -101,6 +109,9 @@ To detect Parkinson's disease in patients using symptoms and medical data, often
 - **Machine Learning Models:** Employ algorithms (e.g., support vector machines, random forests, deep learning) to identify patterns and classify the severity of Parkinson’s disease.
 - **Prediction:** Predict the presence and stage of Parkinson’s disease based on collected features.
 - **Evaluation:** Use performance metrics like sensitivity, specificity, and accuracy to evaluate the model.
+
+<img src="Images-Output/up3.PNG">
+<hr>
 
 **Example Workflow:**
 1. **Data Acquisition:** Gather and preprocess data from various sources.
